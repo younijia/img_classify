@@ -1,0 +1,6 @@
+efficientnet_pytorch
+Pillow
+scikit_learn
+timm
+tqdm==4.66.4
+watchdog==6.0.0
